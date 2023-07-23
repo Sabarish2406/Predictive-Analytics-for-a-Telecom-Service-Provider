@@ -1,0 +1,22 @@
+Overview – As a consulting company working with a telecom service provider, aiming to reduce the percentage of customer churn affecting the company by making recommendations to improve customer experience. 
+
+Problem Statement Summary – Our problem statement was to help reduce customer churn currently at 14.25% under a given budget and with the aim of maximizing profits by reducing churn rate. 
+
+
+Solution Summary – Our solution to the company included a series of data visualization techniques and an advance technique which predicts the percentage of customers who are likely to churn in the future based on the charges they receive. Two incentives were recommended/introduced. Total charges were used a decision factor to decide which incentive was to be granted. 
+
+Proposed Solution  
+ 
+Our solution to the service provider to reduce their churn was to introduce an incentive program based on the data provided. The incentive program would use the budget given to the company to focus on those customers who ae likely to churn in the upcoming years from our analysis of data. 
+A few factors which could help us as a consulting service decide these subscribers from the dataset provided are account length, type of plan, and the total charges of a user. By using the variables mentioned above, we plan to employ visualization and advance techniques such as regression and classification to help distribute the incentive plan with the objective of retaining customers who might want to cancel their plan.  
+
+
+Results 
+
+Visualization and advance logistic regression techniques were used to explain the reasons for customers to churn. From our visual results we concluded that customers who received a higher bill for moderate usage had the highest percentage of churn compared to those with lower rates. Our regression pointed out that total charges and customer service calls were reported significantly using logistic regression model with a chi-square of 82.99. 
+
+Recommendations
+•	Grant an incentive (A) to those customers who received a higher bill. This plan would be a flexible plan which would grant customers with a flexible payment plan or an entirely new subscription plan (Ex: Pay $60 for unlimited voice call minutes, 90GB of high-speed internet and 200 international minutes). 
+•	Grant an incentive (B) to those customers who receive a charge within $50-70. This plan would be a credit plan which can be used to purchase different products from the subscriber (Ex: Get 20 points per payment. These bonus points can be used during check out in our product catalog page). 
+•	Since the customer service also has an effect, allocate a portion of the budget to improve customer service either by hiring more experienced professionals, or by improving current network services. The following led to a decrease in churn rate by 12%
+
